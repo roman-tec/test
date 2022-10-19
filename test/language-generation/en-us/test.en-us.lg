@@ -2,7 +2,7 @@
 
 # SendActivity_Greeting()
 [Activity
-    Text = Soy una prueba.
+    Text = Soy una prueba que funciona.
 ]
 
 # SendActivity_DidNotUnderstand()
